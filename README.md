@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/uiw-react/node-directory-tree-md.svg)](https://travis-ci.org/uiw-react/node-directory-tree-md)
+# node-directory-tree-md 
 
-# node-directory-tree-md
+[![Build Status](https://travis-ci.org/uiw-react/node-directory-tree-md.svg)](https://travis-ci.org/uiw-react/node-directory-tree-md)
 
 > A variation of [node-directory-tree](https://github.com/mihneadb/node-directory-tree)
 
