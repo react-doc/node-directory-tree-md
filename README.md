@@ -50,6 +50,7 @@ Other Markdown content
         "heder": "😆😆😆😆",
         "des": "A detailed description"
       },
+      "isEmpty": true, 
       "size": 23,
       "extension": ".md",
       "type": "file"
