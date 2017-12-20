@@ -8,7 +8,7 @@ Creates a JavaScript object representing a directory tree.
 
 ## Install
 ```bash
-$ npm install node-directory-tree-md
+$ npm i directory-tree-md
 ```
 
 ## Usage
