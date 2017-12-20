@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const dirtree = require('../lib/node-directory-tree-md');
+const dirtree = require('../lib/directory-tree-md');
 const testTree = require('./fixture.js');
 const excludeTree = require('./fixtureExclude.js')
 
