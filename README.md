@@ -45,6 +45,7 @@ Other Markdown content
     {
       "path": "/some/path/README.md",
       "name": "README.md",
+      "relative": "/README.md",
       "mdconf": {
         "title": "Layout",
         "heder": "😆😆😆😆",
@@ -56,8 +57,9 @@ Other Markdown content
       "type": "file"
     },
     {
-      "path": "/some/path/layout.en.md",
+      "path": "/some/path/doc/layout.en.md",
       "name": "layout.en.md",
+      "relative": "/doc/layout.en.md",
       "mdconf": {
         "title": "Layout"
       },
