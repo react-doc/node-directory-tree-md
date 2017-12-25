@@ -4,7 +4,7 @@
   "description": "Convert a directory tree to a JS object.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uiw-react/node-directory-tree-md"
+    "url": "https://github.com/react-doc/node-directory-tree-md.git"
   },
   "keywords": [
     "directory",
@@ -14,9 +14,9 @@
   "author": "Kenny Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uiw-react/node-directory-tree-md/issues"
+    "url": "https://github.com/react-doc/node-directory-tree-md/issues"
   },
-  "homepage": "https://github.com/uiw-react/node-directory-tree-md",
+  "homepage": "https://github.com/react-doc/node-directory-tree-md",
   "dependencies": {},
   "devDependencies": {
     "chai": "^2.3.0",
