@@ -23,13 +23,15 @@ const tree = dirTree('/some/path', {
 });
 ```
 
-Markdown configuration set by comments.
+Markdown configuration set by comments, support [yaml](http://www.yaml.org/).
 
 ```markdown
 <!--
 title: Layout 
 heder: 😆😆😆😆
 des: A detailed description
+  header: 
+    url: http://google.com
 -->
 
 Other Markdown content
@@ -49,7 +51,10 @@ Other Markdown content
       "mdconf": {
         "title": "Layout",
         "heder": "😆😆😆😆",
-        "des": "A detailed description"
+        "des": "A detailed description",
+        "header": {
+          "url": "http://google.com"
+        }
       },
       "isEmpty": true, 
       "size": 23,
